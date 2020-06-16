@@ -10,11 +10,12 @@ main {
   background-size: cover;
   color: white;
   font-family: 'Orbitron';
+  text-shadow: 1px 3px blue;
 
+}
 
-
-
-
+h1, h2, h3{
+  padding: 10px;
 }
 .title {
   width: 100%;
