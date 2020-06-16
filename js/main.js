@@ -25,4 +25,3 @@ console.log(costo);
 
 // fornisco il prezzo del biglietto
 document.getElementById('biglietto').innerHTML = 'il prezzo del tuo biglietto è di ' + costo.toFixed(2) + ' ' + 'Euro';
-//'vuoi percorrere ' + kmDaPercorrere + " all'età di"  + quantiAnniHai + 'dovrai spendere' ;
